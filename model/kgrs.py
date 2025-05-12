@@ -42,7 +42,7 @@ class Dataloader:
         entity_set = set()
         kg = []
         rel_dict = {}
-        for line in open('./relation2id.txt', encoding='utf8').readlines():
+        for line in open('relation2id.txt', encoding='utf8').readlines():
             elements = line.replace('\n', '').split('\t')
             rel_dict[elements[0]] = int(elements[1])
         for line in lines:
