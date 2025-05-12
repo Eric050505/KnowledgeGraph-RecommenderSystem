@@ -1,4 +1,4 @@
-## Project of SUSTech CS303: Artificial Intelligence Fall 2024
+## Project of SUSTech CS303: Artificial Intelligence, Fall 2024
 
 Knowledge Graph (KG)-based recommender system technology uses knowledge graphs 
 as auxiliary information to improve the accuracy and explain-ability of the result of 
